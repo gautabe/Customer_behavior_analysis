@@ -187,6 +187,7 @@ Proper data cleaning significantly improved analytical accuracy and reliability.
 This project demonstrates the ability to convert raw data into meaningful business insights.
 
 🚀 How to Run the Project
+
 1️⃣ Clone the Repository
 git clone https://github.com/gautabe/project-name.git
 cd project-name
